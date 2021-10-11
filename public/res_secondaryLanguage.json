@@ -1,0 +1,118 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 Ik ben Mario, ik heb vooral veel ervaring met Python en C#/.NET maar kan ook full-stack ontwikkelen, backend/frontend van websites. Als 15-jarige, begon ik te werken als een C#/.NET ontwikkelaar (voor 3 jaar). Nu ben ik 19 en leer momenteel React in m'n vrije tijd.",
+    "section_name": {
+      "about": "Over mij",
+      "projects": "Projecten",
+      "skills": "Vaardigheden",
+      "experience": "Ervaring"
+    }
+  },
+  "projects": [
+    {
+      "title": "WellFormedEditor",
+      "startDate": "2018-2021",
+      "description": "De meest uitgebreide applicatie waar ik aan heb mogen werken. Ik heb technologieën geleerd en mijn code is beoordeeld door een geweldige curator. Ik heb de applicatie van scratch gebouwd bovenop WinForms: de parsing-engine, sockets-communicatiehandler, syntaxisaccentuering, configuratiebibliotheek, enz... het is een IDE voor de programmeertaal van het bedrijf.",
+      "images": [
+        "images/portfolio/wellformededitor/p1.png",
+        "images/portfolio/wellformededitor/p2.png"
+      ],
+      "url": "https://www.fresherp.nl/",
+      "technologies": [
+        {
+          "class": "devicon-dot-net-plain",
+          "name": ".NET"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "reviews-analyser",
+      "startDate": "2019",
+      "description": "Een stageproject van 2 weken. Analyseer gebruikersrecensies met behulp van natuurlijke taalverwerking (NLP) en visualiseer ze met Matplotlib of op de website. De geanalyseerde data is bijvoorbeeld waar gebruikers de meeste moeite mee hebben, of wat ze het leukst vinden.",
+      "images": [
+        "images/portfolio/reviews-analyzer/p1.png",
+        "images/portfolio/reviews-analyzer/p2.png"
+      ],
+      "url": "https://github.com/mmitsu/reviews-visualizer",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Gatebot",
+      "startDate": "2018",
+      "description": "Bescherm je Telegram-groep met een op JSON quiz gebaseerde test.",
+      "images": [
+        "images/portfolio/gatebot/p1.png",
+        "images/portfolio/gatebot/p2.png"
+      ],
+      "url": "https://github.com/mmitsu/gatebot",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Triple",
+      "title": "Python ML/NLP 2-weken Stage",
+      "years": "11.2019 - 11.2019",
+      "mainTech": [
+        "Python"
+      ],
+      "technologies": [
+        "Python",
+        "SKLearn",
+        "Spacy",
+        "NLTK",
+        "Matplotlib",
+        "Numpy",
+        "JavaScript",
+        "Node.js",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "company": "FreshERP B.V.",
+      "title": "C#/.NET Software Ontwikkelaar",
+      "years": "05.2018 - 06.2021",
+      "mainTech": [
+        "C#"
+      ],
+      "technologies": [
+        ".NET",
+        "C#",
+        "Sockets",
+        "WinForms"
+      ]
+    }
+  ]
+}

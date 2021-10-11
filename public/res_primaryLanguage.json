@@ -1,0 +1,118 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Mario, I mainly have a lot of experience with Python and C#/.NET, but I'm also a full-stack developer, crafting the backend/frontend of websites. When I was 15 years old, I started working as a C#/.NET developer (for 3 years). Now I'm 19 and currently learning React in my free time.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "WellFormedEditor",
+        "startDate": "2018-2021",
+        "description": "The most expanded application I had opportunity to work on. I've learned many technologies and my code was reviewed by awesome curator. I've built the application from scratch on top of WinForms: the parsing engine, sockets communication handler, syntax highlighting, config library, etc... it's an IDE for the company's custom programming language.",
+        "images": [
+          "images/portfolio/wellformededitor/p1.png",
+          "images/portfolio/wellformededitor/p2.png"
+        ],
+        "url": "https://www.fresherp.nl/",
+        "technologies": [
+          {
+            "class": "devicon-dot-net-plain",
+            "name": ".NET"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "reviews-analyser",
+        "startDate": "2019",
+        "description": "A 2-week internship project. Analyze user reviews using natural language processing and visualize them with Matplotlib or on the website. The analyzed data is, for an example, what users have the most trouble with, or what they like the most.",
+        "images": [
+          "images/portfolio/reviews-analyzer/p1.png",
+          "images/portfolio/reviews-analyzer/p2.png"
+        ],
+        "url": "https://github.com/mmitsu/reviews-visualizer",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Gatebot",
+        "startDate": "2018",
+        "description": "Protect your Telegram group with a JSON quizz-based test.",
+        "images": [
+          "images/portfolio/gatebot/p1.png",
+          "images/portfolio/gatebot/p2.png"
+        ],
+        "url": "https://github.com/mmitsu/gatebot",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Triple",
+        "title": "Python ML/NLP 2-week Intern",
+        "years": "11.2019 - 11.2019",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "SKLearn",
+          "Spacy",
+          "NLTK",
+          "Matplotlib",
+          "Numpy",
+          "JavaScript",
+          "Node.js",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "company": "FreshERP B.V.",
+        "title": "C#/.NET Software Engineer",
+        "years": "05.2018 - 06.2021",
+        "mainTech": [
+          "C#"
+        ],
+        "technologies": [
+          ".NET",
+          "C#",
+          "Sockets",
+          "WinForms"
+        ]
+      }
+    ]
+  }
