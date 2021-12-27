@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Mario, I mainly have a lot of experience with Python and C#/.NET, but I'm also a full-stack developer, crafting the backend/frontend of websites. When I was 15 years old, I started working as a C#/.NET developer (for 3 years). Now I'm 19 and currently learning React in my free time.",
+      "description": "👋 I am Mario, 19 years old. I've been writing code professionally ever since I was 15. I'll show you a few projects that I've developed here. I mainly work with Python and C#/.NET, but I also like to do full-stack web development, backend and frontend.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,7 +13,7 @@
       {
         "title": "WellFormedEditor",
         "startDate": "2018-2021",
-        "description": "The most expanded application I had opportunity to work on. I've learned many technologies and my code was reviewed by awesome curator. I've built the application from scratch on top of WinForms: the parsing engine, sockets communication handler, syntax highlighting, config library, etc... it's an IDE for the company's custom programming language.",
+        "description": "The most expanded application I've worked on. I didn't have any background in C# or WinForms before this project. I've built the application from scratch on top of WinForms: the parsing engine, sockets communication handler, syntax highlighting, config library, it's an IDE for the company's own programming language. The source files are stored on the server and the IDE communicates with an in-between software.",
         "images": [
           "images/portfolio/wellformededitor/p1.png",
           "images/portfolio/wellformededitor/p2.png"
@@ -31,14 +31,14 @@
         ]
       },
       {
-        "title": "reviews-analyser",
+        "title": "reviews-analyzer",
         "startDate": "2019",
-        "description": "A 2-week internship project. Analyze user reviews using natural language processing and visualize them with Matplotlib or on the website. The analyzed data is, for an example, what users have the most trouble with, or what they like the most.",
+        "description": "A 2-week internship project, during the internship I learned to work with a few ML libaries. The backend is built in Python and it analyzes user reviews (feedback from people on the company's app) using natural language processing (NLP) and generates the output (what users have the most trouble with, what they like best, what they all have in common, etc). It then visualizes the output in different ways: word clouds or Matplotlib. The website backend is built in Node.js and it picks up Python's output and shows it on the website in its own way.",
         "images": [
           "images/portfolio/reviews-analyzer/p1.png",
           "images/portfolio/reviews-analyzer/p2.png"
         ],
-        "url": "https://github.com/mmakdis/reviews-visualizer",
+        "url": "https://github.com/mmakdis/reviews-analyzer",
         "technologies": [
           {
             "class": "devicon-python-plain",
@@ -75,6 +75,10 @@
           {
             "class": "devicon-python-plain",
             "name": "Python"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
           }
         ]
       }
