@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 Ik ben Mario, ik heb vooral veel ervaring met Python en C#/.NET maar kan ook full-stack ontwikkelen, backend/frontend van websites. Als 15-jarige, begon ik te werken als een C#/.NET ontwikkelaar (voor 3 jaar). Nu ben ik 19 en leer momenteel React in m'n vrije tijd.",
+    "description": "👋 ik ben Mario, 19 jaar oud. Ik code professioneel al sinds m'n 15e. Ik laat hier een paar projecten zien die ik heb ontwikkeld. Ik werk vooral met Python en C#/.NET maar ik doe graag ook full-stack web development, backend en frontend.",
     "section_name": {
       "about": "Over mij",
       "projects": "Projecten",
@@ -13,7 +13,7 @@
     {
       "title": "WellFormedEditor",
       "startDate": "2018-2021",
-      "description": "De meest uitgebreide applicatie waar ik aan heb mogen werken. Ik heb technologieën geleerd en mijn code is beoordeeld door een geweldige curator. Ik heb de applicatie van scratch gebouwd bovenop WinForms: de parsing-engine, sockets-communicatiehandler, syntaxisaccentuering, configuratiebibliotheek, enz... het is een IDE voor de programmeertaal van het bedrijf.",
+      "description": "De meest uitgebreide applicatie waar ik aan heb gewerkt. Ik had hiervoor geen achtergrond met C# en Winforms, maar als 15-jarige had ik ervaring met andere talen dus het was niet moeilijk. Da applicatie was van scratch gebouwd bovenop WinForms. De parsing-engine, sockets-communicatiehandler, syntax highlighting, configuratie-library, het is een IDE gebouwd voor de eigen programmeertaal van het bedrijf. De source bestanden worden op de server opgeslagen en de IDE communiceert met een tussensoftware.",
       "images": [
         "images/portfolio/wellformededitor/p1.png",
         "images/portfolio/wellformededitor/p2.png"
@@ -33,7 +33,7 @@
     {
       "title": "reviews-analyser",
       "startDate": "2019",
-      "description": "Een stageproject van 2 weken. Analyseer gebruikersrecensies met behulp van natuurlijke taalverwerking (NLP) en visualiseer ze met Matplotlib of op de website. De geanalyseerde data is bijvoorbeeld waar gebruikers de meeste moeite mee hebben, of wat ze het leukst vinden.",
+      "description": "Een stageproject van 2 weken, tijdens de stage heb ik met een paar ML libaries leren werken. De backend is gebouwd in Python en hij analyseert de gebruikersrecensies (over de apps van het bedrijf) met behulp van natural language processing (NLP) en genereert de output (waar gebruikers de meeste moeite mee hebben, wat ze het leukst vinden, wat ze allemaal gemeen hebben, enzovoort). Vervolgens visualiseert hij de output in verschillende manieren: word clouds of Matplotlib. De website backend is gebouwd in Node.js en die pakt de output van Python op en laat het op de website op een eigen manier laten zien.",
       "images": [
         "images/portfolio/reviews-analyzer/p1.png",
         "images/portfolio/reviews-analyzer/p2.png"
@@ -75,6 +75,10 @@
         {
           "class": "devicon-python-plain",
           "name": "Python"
+        },
+        {
+          "class": "devicon-redis-plain",
+          "name": "Redis"
         }
       ]
     }
@@ -102,7 +106,7 @@
     },
     {
       "company": "FreshERP B.V.",
-      "title": "C#/.NET Software Ontwikkelaar",
+      "title": "C#/.NET Software Engineer",
       "years": "05.2018 - 06.2021",
       "mainTech": [
         "C#"
