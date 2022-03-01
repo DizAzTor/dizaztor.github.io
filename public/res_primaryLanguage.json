@@ -86,6 +86,28 @@
     "experience": [
       {
         "company": "Triple",
+        "title": "AI/ML Developer",
+        "years": "02.2022 - Now",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "FastAPI",
+          "Textract",
+          "AWS",
+          "Redis",
+          "Numpy",
+          "JavaScript",
+          "Node.js",
+          "React",
+          "MUI",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "company": "Triple",
         "title": "Python ML/NLP 2-week Intern",
         "years": "11.2019 - 11.2019",
         "mainTech": [
