@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Mario Makdis",
-      "titles": [ "Full-stack Developer", "Software Engineer" ],
+      "titles": [ "Data Engineer", "Developer", "Software Engineer" ],
       "social": [
         {
           "name": "github",
@@ -15,7 +15,7 @@
         },
         {
           "name": "linkedin",
-          "url": "https://www.linkedin.com/in/mario-ma/",
+          "url": "https://www.linkedin.com/in/mario-makdis/",
           "class": "fab fa-linkedin-in"
         }
       ],

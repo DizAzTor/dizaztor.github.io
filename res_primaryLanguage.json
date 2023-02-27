@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I am Mario, 19 years old. I've been writing code professionally ever since I was 15. I'll show you a few projects that I've developed here. I mainly work with Python and C#/.NET, but I also like to do full-stack web development, backend and frontend.",
+      "description": "👋 I am Mario, 20 years old. I've been writing code professionally ever since I was 15. I'll show you a few projects that I've developed here. I currently work as a data engineer and have really good experience with Python and C#/.NET.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -86,8 +86,22 @@
     "experience": [
       {
         "company": "Triple",
-        "title": "AI/ML Developer",
-        "years": "02.2022 - Now",
+        "title": "Junior AI/Data Engineer",
+        "years": "06.2022 - Present",
+        "mainTech": [
+          "Azure"
+        ],
+        "technologies": [
+          "Python",
+          "Azure Functions",
+          "Data Factory",
+          "SQL Database"
+        ]
+      },
+      {
+        "company": "Triple",
+        "title": "AI/ML Developer Intern",
+        "years": "02.2022 - 06.2022",
         "mainTech": [
           "Python"
         ],
